@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>hihi.html</title>
+<link href="pagetwo.css" rel="stylesheet" type="text/css">
+</head>
+</html>
+<body>
+<style>
+body { 
+		background-color: cadetblue;
+	}
+</style>
+<center> 
+	<h2> Pokemon App: Pokedex </h2>
+	<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/F296ITF9-9vIq-2qEE-qj1I-1NbE111T6N89/embed?nosource"></iframe>
+</center>
+</body>
